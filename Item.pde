@@ -5,7 +5,8 @@ class Item {
 	float h = SOIL_SIZE;
 
 	void display(){}
-	void checkCollision(Player player){}
+	void checkCollision(Player player){
+}
 
 	Item(float x, float y){
 		isAlive = true;
